@@ -1,6 +1,6 @@
-# Antigravity SaaS - Gestion Scolaire Intelligente 🚀
+# EDUCSAAS - Gestion Scolaire Intelligente 🚀
 
-**Antigravity** est une solution SaaS (Software as a Service) complète conçue pour moderniser la gestion des établissements scolaires. Elle permet aux écoles de gérer leurs élèves, notes, présences et bulletins, tout en offrant un accès en temps réel aux parents.
+**Educsaas** est une solution SaaS (Software as a Service) complète conçue pour moderniser la gestion des établissements scolaires. Elle permet aux écoles de gérer leurs élèves, notes, présences et bulletins, tout en offrant un accès en temps réel aux parents.
 
 ## ✨ Fonctionnalités Clés
 
@@ -36,4 +36,4 @@ Le SaaS propose deux plans adaptés au contexte local :
 - **PREMIUM** : 5 000 FCFA / mois (Élèves illimités + Module Parents + Bulletins PDF).
 
 ---
-© 2026 Antigravity - Tous droits réservés.
+© 2026 Educsaas - Tous droits réservés.
