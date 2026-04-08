@@ -1,0 +1,7 @@
+# Forcer le traitement des fichiers PHP même dans les sous-dossiers
+<FilesMatch "\.php$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
+
+# Interdire le listing des répertoires pour la sécurité
+Options -Indexes
